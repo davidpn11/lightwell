@@ -1,6 +1,5 @@
 # Lightwell
 
-----
 > Lightwell is a project built for a Garmin hackathon held in Calgary in November 2026.   
 
 ----
