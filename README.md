@@ -2,8 +2,6 @@
 
 > Lightwell is a project built for a Garmin hackathon held in Calgary in November 2026.   
 
-----
-
 
 A Garmin Connect IQ watch app for people who work at a desk. It counts the daylight you get with the watch's solar charging sensor, nudges you outside while the sun is still up, and keeps a small log of coffee, water and tense spells.
 
